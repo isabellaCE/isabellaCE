@@ -1,6 +1,6 @@
 ## Oii, eu sou a Isabella Campos 👋
 
-<div>
+<div style="display: inline-block">
   <a href="https://github.com/isabellaCE">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellaCE&count_private=true&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaCE&layout=compact&theme=radical"/>
