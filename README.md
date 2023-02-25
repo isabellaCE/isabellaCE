@@ -1,11 +1,10 @@
 ## Oii, eu sou a Isabella 👋
 
 - 💻 Desenvolvedora Front End
-
+<a href="https://github.com/isabellaCE">
 <div style="display:flex">
-  <a href="https://github.com/isabellaCE">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellaCE&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaCE&hide=C&langs_count=10&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaCE&hide=C&langs_count=10&layout=compact&theme=radical"/>
 </div>
 
 
